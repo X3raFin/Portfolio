@@ -1,9 +1,11 @@
+import myPhoto from "../Images/ZdjecieDoPortfolio.jpg";
+
 const AboutMe = () => {
   return (
     <div id="about-me" className="hero bg-base-200 rounded-lg">
       <div className="hero-content flex-col lg:flex-row">
         <img
-          src="src/Images/ZdjecieDoPortfolio.jpg"
+          src={myPhoto}
           className="max-w-xs rounded-lg shadow-2xl"
         />
         <div>
