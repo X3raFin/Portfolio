@@ -11,7 +11,7 @@ const AboutMe = () => {
         />
         <div className="w-full">
           <h1 className="text-3xl md:text-5xl font-bold">O mnie</h1>
-          <p className="py-6 text-sm md:text-base break-words">
+          <p className="py-6 text-sm md:text-base break-words whitespace-normal">
             Cześć, nazywam się Kacper Jankowski i jestem studentem trzeciego
             roku informatyki na Politechnice Gdańskiej. Moją pasją jest
             programowanie, a szczególnie tworzenie nowoczesnych aplikacji
