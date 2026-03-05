@@ -1,7 +1,7 @@
 import AboutMe from "./AboutMe";
 import Projects from "./Projects";
 import Technologies from "./Technologies";
-import Contact from "./Contact";
+// import Contact from "./Contact";
 
 const SiteContent = () => {
   return (
