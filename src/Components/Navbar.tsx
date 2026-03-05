@@ -20,7 +20,10 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a className="hover:bg-white/10 active:bg-sky-500 rounded-lg">
+          <a
+            href="#projects"
+            className="hover:bg-white/10 active:bg-sky-500 rounded-lg"
+          >
             Projekty
           </a>
         </li>
