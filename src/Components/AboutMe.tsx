@@ -4,7 +4,7 @@ const AboutMe = () => {
   return (
     <div id="about-me" className="hero bg-base-200 rounded-lg">
       <div className="hero-content flex-col lg:flex-row">
-        <img src={myPhoto} className="max-w-xs rounded-lg shadow-2xl" />
+        <img src={myPhoto} className="md:max-w-xs w-50 rounded-lg shadow-2xl" />
         <div>
           <h1 className="text-5xl font-bold">O mnie</h1>
           <p className="py-6">
