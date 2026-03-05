@@ -6,7 +6,7 @@ const AboutMe = () => {
       <div className="hero-content flex-col lg:flex-row">
         <img
           src={myPhoto}
-          className="md:max-w-xs max-w-3xs rounded-lg shadow-2xl"
+          className="md:max-w-xs max-w-[200px] rounded-lg shadow-2xl"
         />
         <div>
           <h1 className="text-5xl font-bold">O mnie</h1>
