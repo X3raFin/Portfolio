@@ -4,7 +4,7 @@ const Navbar = () => {
       <h1 className="text-white text-2xl md:text-4xl font-bold md:mb-16">
         Kacper Jankowski
       </h1>
-      <ul className="menu w-full hidden md:flex text-xl space-y-4 flex-1 pb-30 justify-center">
+      <ul className="menu w-full hidden md:flex text-xl space-y-4 flex-1 pb-32 justify-center">
         <li>
           <a
             href="#about-me"

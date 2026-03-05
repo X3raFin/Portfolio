@@ -2,7 +2,10 @@ import type { IProject } from "../../Interfaces/IProject";
 
 const Project = (props: IProject) => {
   return (
-    <div className="card p-4 md:card-side bg-base-200 shadow-sm">
+    <div
+      className="card p-4 md:card-side bg-base-200 shadow-sm"
+      key={props.name}
+    >
       <figure>
         <img
           className="w-xs md:w-lg object-cover"

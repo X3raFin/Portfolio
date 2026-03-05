@@ -33,6 +33,7 @@ const Projects = () => {
     <div id="projects" className=" rounded-lg space-y-[15px] w-full">
       {projectsData.map((project) => (
         <Project
+          key={project.name}
           image={project.image}
           name={project.name}
           description={project.description}
