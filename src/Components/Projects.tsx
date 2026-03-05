@@ -30,7 +30,7 @@ const projectsData: IProject[] = [
 
 const Projects = () => {
   return (
-    <div id="projects" className="bg-base-200 rounded-lg space-y-7 w-full">
+    <div id="projects" className=" rounded-lg space-y-[15px] w-full">
       {projectsData.map((project) => (
         <Project
           image={project.image}
