@@ -2,15 +2,16 @@ import myPhoto from "../Images/ZdjecieDoPortfolio.jpg";
 
 const AboutMe = () => {
   return (
-    <div id="about-me" className="hero bg-base-200 rounded-lg">
-      <div className="hero-content flex-col lg:flex-row">
+    <div id="about-me" className="hero bg-base-200 rounded-lg w-full">
+      <div className="hero-content flex-col lg:flex-row w-full text-center lg:text-left">
         <img
           src={myPhoto}
-          className="md:max-w-xs max-w-[200px] rounded-lg shadow-2xl"
+          alt="Kacper Jankowski"
+          className="w-full max-w-[250px] md:max-w-xs rounded-lg shadow-2xl"
         />
-        <div>
-          <h1 className="text-5xl font-bold">O mnie</h1>
-          <p className="py-6">
+        <div className="w-full">
+          <h1 className="text-3xl md:text-5xl font-bold">O mnie</h1>
+          <p className="py-6 text-sm md:text-base break-words">
             Cześć, nazywam się Kacper Jankowski i jestem studentem trzeciego
             roku informatyki na Politechnice Gdańskiej. Moją pasją jest
             programowanie, a szczególnie tworzenie nowoczesnych aplikacji
