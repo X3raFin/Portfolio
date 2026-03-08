@@ -8,16 +8,16 @@ const technologies = {
     "Tailwind CSS",
     "DaisyUI",
   ],
-  "Back-end (.NET)": [
+  "Back-end": [
     "ASP .NET Core",
     "Entity Framework Core",
     "LINQ",
     "REST API",
     "Dependency Injection",
   ],
-  "Bazy danych": ["MySQL", "PostgreSQL", "SQLite"],
-  "Języki programowania": ["C++", "Java", "C#"],
-  "Narzędzia i inne": ["Git", "GitHub", "Vite", "Figma"],
+  "Data bases": ["MySQL", "PostgreSQL", "SQLite"],
+  "Programming languages": ["C++", "Java", "C#"],
+  "Tools and others": ["Git", "GitHub", "Vite", "Figma"],
 };
 
 const Technologies = () => {
