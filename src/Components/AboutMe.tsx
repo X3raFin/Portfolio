@@ -10,7 +10,7 @@ const AboutMe = () => {
           className="w-full max-w-[250px] md:max-w-xs rounded-lg shadow-2xl"
         />
         <div className="w-full">
-          <h1 className="text-3xl md:text-5xl font-bold">O mnie</h1>
+          <h1 className="text-3xl md:text-5xl font-bold">About me</h1>
           <p className="py-6 text-sm md:text-base break-words whitespace-normal">
             Hi, I'm Kacper Jankowski, a third-year Computer Science student at
             Gdańsk University of Technology. I am deeply passionate about
