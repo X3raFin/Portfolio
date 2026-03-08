@@ -12,19 +12,19 @@ const AboutMe = () => {
         <div className="w-full">
           <h1 className="text-3xl md:text-5xl font-bold">O mnie</h1>
           <p className="py-6 text-sm md:text-base break-words whitespace-normal">
-            Cześć, nazywam się Kacper Jankowski i jestem studentem trzeciego
-            roku informatyki na Politechnice Gdańskiej. Moją pasją jest
-            programowanie, a szczególnie tworzenie nowoczesnych aplikacji
-            webowych. Umiejętności w tym kierunku rozwijam konsekwentnie od
-            czasów technikum, zarówno na studiach, jak i realizując własne
-            projekty. Po godzinach jestem entuzjastą aktywnego trybu życia.
-            Obecnie poszukuję możliwości zdobycia doświadczenia komercyjnego w
-            tworzeniu aplikacji internetowych. Jestem elastyczny i chętnie
-            podejmę się wyzwań zarówno w obszarze front-endu, back-endu, jak i
-            na stanowisku full-stack, aby dalej rozwijać swoje wszechstronne
-            umiejętności.
+            Hi, I'm Kacper Jankowski, a third-year Computer Science student at
+            Gdańsk University of Technology. I am deeply passionate about
+            software development, with a strong focus on building modern,
+            responsive web applications. I've been consistently honing my
+            technical skills since my technical school days, blending academic
+            knowledge with hands-on experience through personal projects.
+            Outside of coding, I'm a big enthusiast of an active lifestyle. I am
+            currently seeking my first commercial role in web development. Being
+            highly adaptable, I am eager to take on new challenges across the
+            entire stack—whether in Front-End, Back-End, or Full-Stack
+            positions—to further expand my technical expertise.
           </p>
-          <button className="btn btn-primary">Pobierz CV</button>
+          <button className="btn btn-primary">Download CV</button>
         </div>
       </div>
     </div>

@@ -2,9 +2,7 @@ import type { IProject } from "../../Interfaces/IProject";
 
 const Project = (props: IProject) => {
   return (
-    <div
-      className="card p-4 md:card-side bg-base-200 shadow-sm"
-    >
+    <div className="card p-4 md:card-side bg-base-200 shadow-sm">
       <figure>
         <img
           className="w-xs md:w-lg object-cover"
@@ -17,7 +15,7 @@ const Project = (props: IProject) => {
         <p>{props.description}</p>
         <div className="card-actions justify-end">
           <a href={props.link} target="_blank" className="btn btn-primary">
-            Zobacz więcej
+            See more
           </a>
         </div>
       </div>

@@ -24,7 +24,7 @@ const Technologies = () => {
   return (
     <div id="technologies" className="card bg-base-200 shadow-xl">
       <div className="card-body">
-        <h2 className="card-title text-3xl font-bold mb-4">Technologie</h2>
+        <h2 className="card-title text-3xl font-bold mb-4">Technologies</h2>
 
         {Object.entries(technologies).map(([category, techList]) => (
           <div key={category} className="mb-6">
@@ -40,8 +40,8 @@ const Technologies = () => {
         ))}
 
         <p className="text-base-content/70 mt-4">
-          Chętnie uczę się nowych rzeczy i regularnie poszerzam swój stack
-          technologiczny.
+          I am always eager to learn new things and regularly expand my tech
+          stack.
         </p>
       </div>
     </div>

@@ -5,10 +5,10 @@ const Contact = () => {
       className="py-20 px-4 bg-base-200 text-white w-full rounded-lg"
     >
       <div className="container mx-auto text-center">
-        <h2 className="text-4xl font-bold mb-8">Skontaktuj się ze mną</h2>
+        <h2 className="text-4xl font-bold mb-8">Contact with me</h2>
         <p className="text-lg mb-10">
-          Chętnie odpowiem na wszelkie pytania i porozmawiam o potencjalnej
-          współpracy.
+          I would be happy to answer any questions and discuss potential
+          collaboration.
         </p>
         <div className="flex flex-col md:flex-row justify-center items-center gap-8">
           <a

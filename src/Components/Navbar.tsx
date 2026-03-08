@@ -10,7 +10,7 @@ const Navbar = () => {
             href="#about-me"
             className="hover:bg-white/10 active:bg-sky-500 rounded-lg"
           >
-            O mnie
+            About me
           </a>
         </li>
         <li>
@@ -18,7 +18,7 @@ const Navbar = () => {
             href="#technologies"
             className="hover:bg-white/10 active:bg-sky-500 rounded-lg"
           >
-            Technologie
+            Technologies
           </a>
         </li>
         <li>
@@ -26,7 +26,7 @@ const Navbar = () => {
             href="#projects"
             className="hover:bg-white/10 active:bg-sky-500 rounded-lg"
           >
-            Projekty
+            Projects
           </a>
         </li>
         <li>
@@ -34,7 +34,7 @@ const Navbar = () => {
             href="#contact"
             className="hover:bg-white/10 active:bg-sky-500 rounded-lg"
           >
-            Kontakt
+            Contact
           </a>
         </li>
       </ul>
