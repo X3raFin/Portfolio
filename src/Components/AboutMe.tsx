@@ -21,8 +21,8 @@ const AboutMe = () => {
             Outside of coding, I'm a big enthusiast of an active lifestyle. I am
             currently seeking my first commercial role in web development. Being
             highly adaptable, I am eager to take on new challenges across the
-            entire stack—whether in Front-End, Back-End, or Full-Stack
-            positions—to further expand my technical expertise.
+            entire stack-whether in Front-End, Back-End, or Full-Stack
+            positions-to further expand my technical expertise.
           </p>
           <button className="btn btn-primary">Download CV</button>
         </div>
