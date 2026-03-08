@@ -31,7 +31,7 @@ const projectsData: IProject[] = [
     image: DW,
     name: "Digital_World",
     description:
-      "The purpose of this project is to create a digital world, which is a small game inhabited by animals and plants. In this world, animals can fight with other species and multiply within their own. Various plants can provide buffs or debuffs to the animals that consume them. This project was created entirely in Java and served as my first introduction to both the language and the concepts of object-oriented programming. A key feature is the ability for the user to save the current state of the world—including all animal statistics and positions—to a text file, allowing them to resume their simulation at a later time.",
+      "The purpose of this project is to create a digital world, which is a small game inhabited by animals and plants. In this world, animals can fight with other species and multiply within their own. Various plants can provide buffs or debuffs to the animals that consume them. This project was created entirely in Java and served as my first introduction to both the language and the concepts of object-oriented programming. A key feature is the ability for the user to save the current state of the world-including all animal statistics and positions-to a text file, allowing them to resume their simulation at a later time.",
     link: "https://github.com/X3raFin/Digital_World",
   },
 ];
